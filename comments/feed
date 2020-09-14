@@ -16,7 +16,7 @@
 
 	Comments for YGOPRO &#8211; YGOPRO=ORICHALCOS	</title>
 
-	<atom:link href="https://fygt.github.io/ygopro-orichalcos/comments/feed.html" rel="self" type="application/rss+xml" />
+	<atom:link href="https://fygt.github.io/ygopro-orichalcos/comments/feed" rel="self" type="application/rss+xml" />
 
 	<link>https://fygt.github.io/ygopro-orichalcos</link>
 
