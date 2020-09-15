@@ -8,19 +8,19 @@ This XML file does not appear to have any style information associated with it. 
 
 <engineLink>https://wordpress.org/</engineLink>
 
-<homePageLink>https://ygopro.org</homePageLink>
+<homePageLink>https://fygt.github.io/ygopro-orichalcos</homePageLink>
 
 <apis>
 
-<api name="WordPress" blogID="1" preferred="true" apiLink="https://ygopro.org/xmlrpc.php"/>
+<api name="WordPress" blogID="1" preferred="true" apiLink="https://fygt.github.io/ygopro-orichalcos/xmlrpc.php"/>
 
-<api name="Movable Type" blogID="1" preferred="false" apiLink="https://ygopro.org/xmlrpc.php"/>
+<api name="Movable Type" blogID="1" preferred="false" apiLink="https://fygt.github.io/ygopro-orichalcos/xmlrpc.php"/>
 
-<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://ygopro.org/xmlrpc.php"/>
+<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://fygt.github.io/ygopro-orichalcos/xmlrpc.php"/>
 
-<api name="Blogger" blogID="1" preferred="false" apiLink="https://ygopro.org/xmlrpc.php"/>
+<api name="Blogger" blogID="1" preferred="false" apiLink="https://fygt.github.io/ygopro-orichalcos/xmlrpc.php"/>
 
-<api name="WP-API" blogID="1" preferred="false" apiLink="https://ygopro.org/wp-json/"/>
+<api name="WP-API" blogID="1" preferred="false" apiLink="https://fygt.github.io/ygopro-orichalcos/wp-json/"/>
 
 </apis>
 
